@@ -1,5 +1,5 @@
 
-/*
+
 
 
 // Exercicio 1
@@ -22,7 +22,7 @@ if(idade >= 18) {
    
 }
 
-// Ex 2
+// Exercicio 2
 
 
 let valor = prompt("Digite um Número!")
@@ -45,7 +45,7 @@ if( valor > 0) {
 
 
 
-// Ex 3
+// Exercicio 3
 
 let nota = parseInt(prompt("Digite a nota: "))
 
@@ -56,7 +56,7 @@ if(nota >= 60) {
 }
 
 
-// Ex 4
+// Exercicio 4
 
 let valor = prompt("Digite um Número!")
 
@@ -75,7 +75,7 @@ if( valor > 0) {
 }
 
 
-// Ex 5
+// Exercicio 5
 
 let idade =parseInt( prompt("Digite sua idade!: "))
 if(idade >= 0 && idade <= 12) {
@@ -100,7 +100,7 @@ else {
 
 
 
-//Ex 6
+//Exercicio 6
 
 
 let valor = parseInt(prompt("Digite um número:"));
@@ -115,7 +115,7 @@ if (isNaN(valor)) {
     console.log("Ímpar");
 }
 
-
+/////////////////////////////////////////////////////////////////////////
 
 // Ex 1 inter
 
@@ -190,7 +190,7 @@ else if (operacao == "-")
  else
      console.log("Acesso Negado")
 
- 
+ //////////////////////////////////////////////////////////////////////
 
  // EX 1 Avançado
 
@@ -279,7 +279,7 @@ else if (operacao == "-")
  else 
  console.log("Obesidade Grave")
 
- */
+ 
 
  // Ex 4 Avançado
 
