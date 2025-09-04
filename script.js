@@ -129,7 +129,7 @@ if (numeroA * numeroB == resultado){
     console.log(resultado)
 }
 
-*/
+
 
 // Ex 2 inter
 
@@ -146,6 +146,6 @@ if (isNaN(numeroA) || isNaN(numeroB)) {
     console.log("Resultado:", resultado);          // Também mostra no console
 }
 
-
+*/
 
 
